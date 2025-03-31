@@ -2,9 +2,9 @@
 
 ## 🎯 About Me
 
-I'm a highly motivated **Embedded Systems Engineer** with 3+ years of experience across industry and academia.Passionate about contributing technical expertise and problem-solving skills to drive success, I focus on delivering high-quality products while embracing continuous learning.
+I'm a highly motivated **Embedded Systems Engineer** with 3+ years of experience across industry and academia. Passionate about contributing technical expertise and problem-solving skills to drive success, I focus on delivering high-quality products while embracing continuous learning.
 
-- 💡 **Industry Experience:** Worked in systems engineering team in the automotive industry
+- 💡 **Industry Experience:** Worked in a systems engineering team in the automotive industry
 - 🎓 **Academic Experience:** Teaching C programming and embedded systems
 - 🔬 **Research:** Developed a low-cost, wireless EMG system during [Master's thesis](https://github.com/lordlynn/WDA)
 
@@ -16,7 +16,7 @@ I'm a highly motivated **Embedded Systems Engineer** with 3+ years of experience
 *Grand Valley State University, Grand Rapids, MI*  
 - Overall GPA: 3.8  
 - Graduation Date: 4/2024
-- Passed thesis defense with distiction
+- Passed thesis defense with distinction
 
 **B.S. Engineering - Computer Engineering**  
 *Grand Valley State University, Grand Rapids, MI*  
