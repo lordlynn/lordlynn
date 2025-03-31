@@ -64,12 +64,14 @@ I'm a highly motivated **Embedded Systems Engineer** with 3+ years of experience
 | **Category**                     | **Skills**                                                                 |
 |----------------------------------|----------------------------------------------------------------------------|
 | **Languages**                    | C, C++, Python, MATLAB, Assembly, Verilog                                  |
-| **Architectures/Manufacturers**  | MIPS, RISC-V, ARM Cortex, NXP, Microchip, Texas Instruments              |
-| **Embedded Communication Standards** | UART, SPI, I2C, CAN, USB       
-
+| **Architectures/Manufacturers**  | MIPS, RISC-V, ARM Cortex, NXP, Microchip, Texas Instruments                |
+| **Embedded Communication Standards** | UART, SPI, I2C, CAN, USB                                               |
+| **Wireless Communication Standards** | WiFi, MQTT, Bluetooth                                                  |
+| **Singal Analysis** | Time domain, Frequency domain, Filtering                                                |
+| **Lab Skills** | Hardware Debugging, Oscilloscope, 3D printing, PCB assembly                                  |
 ---
 
-### 🚀 Check out my other projects on GitHub!
+## 🚀 Check out my other projects on GitHub!
  - The [RAVIR Challenge](https://github.com/lordlynn/RAVIR_Challenge) project served as an introduction to machine learning. This project implemented an autoencoder architecture to segment images of vasculature in the human eye to assist in the mapping of veins and arteries.
 
  - The [EMG Filtering](https://github.com/lordlynn/EMG_Filtering) project utilized my [thesis](https://github.com/lordlynn/WDA) to record EMG data contaminated with ECG so that an algorithm could be developed to filter out the unwanted signal.
