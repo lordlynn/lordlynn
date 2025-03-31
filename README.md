@@ -76,8 +76,11 @@ I'm a highly motivated **Embedded Systems Engineer** with 3+ years of experience
 
  - The [Smoke Detector](https://github.com/lordlynn/SmokeDetector) project served as a practice project to learn STM microcontrollers and surface mount PCB design.
 
+---
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/zac-lynn-56090a1bb/)  
 
----
+
+
+
